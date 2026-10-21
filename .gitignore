@@ -1,0 +1,9 @@
+# Provider plugins downloaded by terraform init
+.terraform/
+
+# State files (can contain sensitive data)
+*.tfstate
+*.tfstate.*
+
+# Your personal variable values
+terraform.tfvars

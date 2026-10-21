@@ -1,0 +1,6 @@
+# Copy this file to terraform.tfvars and fill in your values:
+#   cp terraform.tfvars.example terraform.tfvars
+
+github_owner = "your-github-username"
+repo_name    = "terraform-pages-demo"
+page_title   = "Hello from Terraform"
